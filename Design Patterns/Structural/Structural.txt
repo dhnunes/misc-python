@@ -1,0 +1,10 @@
+
+Structural Patters is the simple way to realise relationships between entities
+
+Structure refers to a composition o classes or objects
+
+MVC
+Façade
+Proxy
+Decorator
+Adaptor

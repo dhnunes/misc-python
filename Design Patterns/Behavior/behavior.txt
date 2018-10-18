@@ -1,0 +1,14 @@
+Identify and realise common communication patters between objects
+
+To do with assignment of reponsibility between objects
+Encapsulate behaviour in an object and delegate to it
+
+Command
+Interpreter
+State
+Chain of Responsibility
+Strategy
+Observer
+Memento
+Template
+Reactive design patterns

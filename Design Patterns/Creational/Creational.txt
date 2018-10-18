@@ -1,0 +1,16 @@
+The idea of Creational Pattern:
+
+The main idea of creational patterns is to separate system from how its 
+objects are created and composed.
+
+Explicity express which concrete classes the system uses
+
+Hide how instances of theses concrete classes are created and combined
+
+Creational Factories:
+
+Factory
+Abstract Factory
+Builder
+Prototype
+Singleton
